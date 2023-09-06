@@ -18,7 +18,7 @@ The Task Management API is a web service that enables users to manage their task
       2) Update Task
       3) Delete Task
       4) Get all Task
-      5) Get Task By Id
+      5) Get Task By ID
       6) Get Task By Title
       7) Get Task By IsCompleted
      
@@ -48,7 +48,7 @@ The Task Management API is a web service that enables users to manage their task
 
 
 ### Get Task
-you can use get in 4 ways ( all Tasks, By Id, By Title, By IsCompleted) 
+You can use get in 4 ways ( all Tasks, By ID, By Title, By IsCompleted) 
 ![Screenshot (31)](https://github.com/EssamSheriff/Task-Management-API/assets/72581790/aae351b7-8dbb-4d64-923a-2b40d8f49846)
 
 
